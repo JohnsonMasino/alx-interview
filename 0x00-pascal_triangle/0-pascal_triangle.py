@@ -1,7 +1,8 @@
 #!/usr/bin/python3
 """
-0x00. Pascal's Triangle
+0-pascal_riangle
 """
+
 
 def pascal_triangle(n):
     """
