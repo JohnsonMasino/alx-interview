@@ -4,8 +4,8 @@
 
 
 def canUnlockAll(boxes):
-    '''This function checks if all the boxes in a list of boxes containing the keys
-    to other boxes can be unlocked given that the first
+    '''Checks if all the boxes in a list of boxes containing the keys
+    (indices) to other boxes can be unlocked given that the first
     box is unlocked.
     '''
     n = len(boxes)
