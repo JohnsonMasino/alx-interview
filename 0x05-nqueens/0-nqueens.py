@@ -1,17 +1,21 @@
 #!/usr/bin/python3
-"""N queens solution finder module.
+"""
+N queens solution finder module.
 """
 import sys
 
 
 solutions = []
-"""The list of possible solutions to the N queens problem.
+"""
+The list of possible solutions to the N queens problem.
 """
 n = 0
-"""The size of the chessboard.
+"""
+The size of the chessboard.
 """
 pos = None
-"""The list of possible positions on the chessboard.
+"""
+The list of possible positions on the chessboard.
 """
 
 
